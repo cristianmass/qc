@@ -2,7 +2,7 @@
  "name": "Cryptocurrencies",
   "short_name": "Cryptocurrencies",
   "description": "Crypto stocks news and info",
-  "start_url": "./",
+  "start_url": "https://cryptocurrencyes.com/",
   "display": "standalone",
   "theme_color": "#F4F9FB",
   "background_color": "#F4F9FB",
